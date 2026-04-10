@@ -6,3 +6,10 @@ xgboost
 shap
 matplotlib
 reportlab
+
+# streamlit
+# pandas
+# numpy
+# scikit-learn==1.4.2
+# xgboost
+# joblib
